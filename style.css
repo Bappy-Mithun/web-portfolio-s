@@ -59,6 +59,9 @@ section{
     background-repeat: no-repeat;
     background-position: left;
 }
+.margin{
+    margin-left: 5%;
+}
 
 #full-stack{
     border-left: 7px solid;
